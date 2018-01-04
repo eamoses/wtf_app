@@ -1,6 +1,6 @@
 # Heard it? Seen it? Report it!
 
-####<https://whatsthefuss.herokuapp.com/>
+Link to website: <https://whatsthefuss.herokuapp.com/>
 This application enables users to communicate sudden problems, emergencies or detours while walking or cycling.  A user can post a new event or "thank" another user for their heads-up.
 
 Contributors
