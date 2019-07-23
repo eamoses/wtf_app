@@ -57,7 +57,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'carrierwave'
 
 #image processing
-gem 'mini_magick', '~> 4.5', '>= 4.5.1'
+gem 'mini_magick', '~> 4.9'
 
 
 gem 'dotenv-rails', :groups => [:development, :test]

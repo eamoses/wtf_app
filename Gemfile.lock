@@ -127,7 +127,7 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2016.0221)
     mimemagic (0.3.1)
-    mini_magick (4.5.1)
+    mini_magick (4.9.4)
     mini_portile2 (2.1.0)
     minitest (5.8.4)
     multi_json (1.12.0)
@@ -256,7 +256,7 @@ DEPENDENCIES
   hirb
   jbuilder (~> 2.0)
   jquery-rails
-  mini_magick (~> 4.5, >= 4.5.1)
+  mini_magick (~> 4.9)
   pg (~> 0.15)
   rails (= 4.2.6)
   rails_12factor
