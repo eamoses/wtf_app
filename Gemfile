@@ -25,6 +25,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'hirb'
 
+gem 'loofah', '>= 2.3.1'
+
 gem 'devise', '~> 4.7', '>= 4.7.1'
 
 gem "fog-aws"
